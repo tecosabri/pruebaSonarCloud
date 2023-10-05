@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "17A923D1-178E-4403-93A6-AFE66F8AB720"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "506053B8-1111-4016-B8CF-EEFE44EB4D84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSuperPoderesTests/Sut/RemoteDataSourceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "testRemoteDataSource_whenLoginWithSuccessResult_expectsToken()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B72530E2-1800-48AE-A315-3EB14546BFF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSSuperPoderes/Data/Extensions/URLSessionExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "load(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B72530E2-1800-48AE-A315-3EB14546BFF6 - 7d8089e9742d1f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in __C.NSURLSession.load(Foundation.URLRequest) -&gt; Combine.AnyPublisher&lt;Foundation.Data, Swift.Error&gt;"
+                  moduleName = "iOSSuperPoderes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ismaelsabriperez/Desktop/iOSSuperpoderes/Proyecto/iOSSuperPoderes/iOSSuperPoderes/Data/Extensions/URLSessionExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "B72530E2-1800-48AE-A315-3EB14546BFF6 - 7d8089e9742d1f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in __C.NSURLSession.load(Foundation.URLRequest) -&gt; Combine.AnyPublisher&lt;Foundation.Data, Swift.Error&gt;"
+                  moduleName = "iOSSuperPoderes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ismaelsabriperez/Desktop/iOSSuperpoderes/Proyecto/iOSSuperPoderes/iOSSuperPoderes/Data/Extensions/URLSessionExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "91294F3C-63EC-4631-B216-EB9E72D50A67",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:iOSSuperPoderes.xcodeproj",
+        "identifier" : "87837C3D2A6DD54A00A70921",
+        "name" : "iOSSuperPoderesTests"
+      }
+    }
+  ],
+  "version" : 1
+}
